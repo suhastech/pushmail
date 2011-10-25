@@ -50,6 +50,6 @@ It looks for the table where *id=1234* (that was generated when you got the emai
 
 **The unsolvable problems** \(Atleast, for me\)
 
-1) If a hacker who somehow gets all my database files and wants to open 1 of your emails (There's nothing more he can do, trust me), he could  try a simple "for loop" that tries to decrypt trying all the unique identifier integer. Difficult but still doable with some crunching power. So, make sure you have secured your servers. Still, the hacker has no way of telling what's who's. Not a big security hole I guess.
+1) If a hacker somehow gets all my database files and wants to open 1 of your emails (There's nothing more he can do, trust me), he could  try a simple "for loop" that tries to decrypt trying all the unique identifier integer. Difficult but still doable with some crunching power. So, make sure you have secured your servers. Still, the hacker has no way of telling what's who's. Not a big security hole I guess.
 
 2) The email parsing technique. With literally thousands of RFC rules, different email clients sending in their own standards, I just couldn't write a "one code fits all" code to parse the emails. Hopefully, someone will improve this.
