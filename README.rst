@@ -24,7 +24,7 @@ Download the source.
 
 **Contact Information**
 
-You can add a comment http://suhastech.com/open-source-pushmail-sms-php/ or contact me at http://suhastech.com/contact/
+You can add a comment http://suhastech.com/open-source-pushmail-on-sms/ or contact me at http://suhastech.com/contact/
 
 **Brief Overview of \"How this works\"** \(Just for the curious ones\)
 
