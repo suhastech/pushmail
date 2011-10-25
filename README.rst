@@ -2,7 +2,7 @@
 
 **What is @pushmail**
 
-It is an SMS app on the txtweb.com platform with which users can get instant email notifications via SMS. If they choose to, they can read full emails and reply to them. The user just have to setup a simple email forwarder. http://suhastech.com/mail
+It is an SMS app on the txtweb.com platform with which users can get instant email notifications via SMS. If they choose to, they can read full emails and reply to them. The user just has to setup a simple email forwarder. http://suhastech.com/mail
 
 **The "I just want to get this working" guide:**
 
@@ -24,7 +24,7 @@ Download the source.
 
 **Contact Information**
 
-You can add a comment in http://suhastech.com/open-source-pushmail-sms-php/ or contact me at http://suhastech.com/contact/
+You can add a comment http://suhastech.com/open-source-pushmail-sms-php/ or contact me at http://suhastech.com/contact/
 
 **Brief Overview of \"How this works\"** \(Just for the curious ones\)
 
