@@ -1,0 +1,3 @@
+This is just a dummy folder.
+
+Download and extract the real Zend Framework from http://framework.zend.com/download/latest
