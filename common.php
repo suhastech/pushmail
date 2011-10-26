@@ -51,11 +51,11 @@ $dbname = "";
 $domainname = "suhastech.com";
 
 // The URL where these files are hosted.
-$scriptpath = "http://suhastech.com/pushmail/"; // ***With Trailing Hash***
+$scriptpath = "http://suhastech.com/pushmail/"; // ***With Trailing Slash***
 
 
 // Zend Framework is not included in the package. Download it from framework.zend.com and set the path.
-$zendpath = "class/ZendFramework-1.11.7-minimal/"; // ***With Trailing Hash***
+$zendpath = "class/ZendFramework-1.11.7-minimal/"; // ***With Trailing Slash***
 
 // Your call.
 error_reporting (0);
